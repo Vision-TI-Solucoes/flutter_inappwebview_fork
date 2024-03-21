@@ -33,17 +33,17 @@ dependencies:
   flutter_inappwebview_ios:
     git:
       url: https://github.com/fedser/flutter_inappwebview_fork.git
-    path: flutter_inappwebview_ios
+      path: flutter_inappwebview_ios
   # flutter_inappwebview_macos: ^1.0.11
   flutter_inappwebview_macos:
     git:
       url: https://github.com/fedser/flutter_inappwebview_fork.git
-    path: flutter_inappwebview_macos
+      path: flutter_inappwebview_macos
   # flutter_inappwebview_web: ^1.0.8
   flutter_inappwebview_web:
     git:
       url: https://github.com/fedser/flutter_inappwebview_fork.git
-    path: flutter_inappwebview_web
+      path: flutter_inappwebview_web
 
 dev_dependencies:
   flutter_test:
