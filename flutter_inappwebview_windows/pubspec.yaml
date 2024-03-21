@@ -20,7 +20,9 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_inappwebview_platform_interface: #^1.0.10
-    path: ../flutter_inappwebview_platform_interface
+    git:
+      url: https://github.com/fedser/flutter_inappwebview_fork.git
+      path: flutter_inappwebview_platform_interface
 
 dev_dependencies:
   flutter_test:
